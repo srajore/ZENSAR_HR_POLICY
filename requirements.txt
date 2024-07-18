@@ -1,0 +1,8 @@
+streamlit
+boto3
+botocore
+langchain
+PyPDF2
+chromadb
+langchain-community
+pypdf
